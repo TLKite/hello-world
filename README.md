@@ -1,3 +1,5 @@
 # hello-world
 
-This is my first repository
+This is my first GitHub project. 
+
+I plan to use this in my retirement. 
